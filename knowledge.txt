@@ -1,0 +1,76 @@
+Flu has symptoms Fever, Cough, Headache, Body Aches.
+Common Cold has symptoms Sneezing, Runny Nose, Sore Throat.
+COVID-19 has symptoms Fever, Cough, Shortness of Breath, Loss of Taste.
+Pneumonia has symptoms Fever, Chest Pain, Shortness of Breath, Cough.
+Tuberculosis has symptoms Chronic Cough, Weight Loss, Night Sweats, Fever.
+Asthma has symptoms Shortness of Breath, Wheezing, Chest Tightness.
+Bronchitis has symptoms Cough, Mucus Production, Fatigue, Chest Discomfort.
+Malaria has symptoms Fever, Chills, Sweating, Headache.
+Dengue has symptoms High Fever, Joint Pain, Muscle Pain, Rash.
+Typhoid has symptoms Prolonged Fever, Weakness, Abdominal Pain, Headache.
+Hepatitis A has symptoms Jaundice, Fatigue, Nausea, Abdominal Pain.
+Diabetes has symptoms Frequent Urination, Increased Thirst, Fatigue, Blurred Vision.
+Hypertension has symptoms Headache, Dizziness, Chest Pain.
+Migraine has symptoms Severe Headache, Nausea, Sensitivity to Light.
+Anemia has symptoms Fatigue, Weakness, Pale Skin, Shortness of Breath.
+Appendicitis has symptoms Abdominal Pain, Nausea, Vomiting, Fever.
+Kidney Stones has symptoms Severe Back Pain, Blood in Urine, Nausea.
+Food Poisoning has symptoms Nausea, Vomiting, Diarrhea, Abdominal Cramps.
+Allergy has symptoms Sneezing, Itchy Eyes, Runny Nose, Rash.
+Heart Attack has symptoms Chest Pain, Shortness of Breath, Sweating, Nausea.
+Stroke has symptoms Sudden Weakness, Slurred Speech, Confusion, Headache.
+Epilepsy has symptoms Seizures, Loss of Consciousness, Confusion.
+Parkinsons Disease has symptoms Tremors, Muscle Rigidity, Slow Movement.
+Alzheimers Disease has symptoms Memory Loss, Confusion, Difficulty Speaking.
+Depression has symptoms Persistent Sadness, Fatigue, Loss of Interest.
+Anxiety Disorder has symptoms Restlessness, Rapid Heartbeat, Sweating.
+Bipolar Disorder has symptoms Mood Swings, Mania, Depression.
+Schizophrenia has symptoms Hallucinations, Delusions, Disorganized Speech.
+Obsessive Compulsive Disorder has symptoms Repetitive Thoughts, Compulsive Actions.
+Post Traumatic Stress Disorder has symptoms Flashbacks, Anxiety, Nightmares.
+Insomnia has symptoms Difficulty Sleeping, Fatigue, Irritability.
+Sleep Apnea has symptoms Loud Snoring, Daytime Sleepiness, Morning Headache.
+Gastritis has symptoms Stomach Pain, Nausea, Bloating.
+Peptic Ulcer has symptoms Burning Stomach Pain, Nausea, Weight Loss.
+Irritable Bowel Syndrome has symptoms Abdominal Pain, Diarrhea, Constipation.
+Crohns Disease has symptoms Diarrhea, Abdominal Pain, Fatigue.
+Ulcerative Colitis has symptoms Bloody Diarrhea, Abdominal Pain, Fatigue.
+Celiac Disease has symptoms Diarrhea, Weight Loss, Bloating.
+Gallstones has symptoms Abdominal Pain, Nausea, Vomiting.
+Pancreatitis has symptoms Severe Abdominal Pain, Fever, Nausea.
+Liver Cirrhosis has symptoms Jaundice, Fatigue, Swelling Abdomen.
+Chronic Kidney Disease has symptoms Fatigue, Swelling Legs, Decreased Urination.
+Urinary Tract Infection has symptoms Burning Urination, Frequent Urination, Fever.
+Prostate Enlargement has symptoms Difficulty Urinating, Weak Urine Flow.
+Osteoporosis has symptoms Bone Pain, Frequent Fractures.
+Arthritis has symptoms Joint Pain, Stiffness, Swelling.
+Rheumatoid Arthritis has symptoms Joint Pain, Morning Stiffness, Fatigue.
+Gout has symptoms Joint Pain, Swelling, Redness.
+Lupus has symptoms Fatigue, Joint Pain, Skin Rash.
+Psoriasis has symptoms Skin Rash, Itching, Red Patches.
+Eczema has symptoms Dry Skin, Itching, Redness.
+Acne has symptoms Pimples, Oily Skin, Blackheads.
+Chickenpox has symptoms Fever, Itchy Rash, Fatigue.
+Measles has symptoms Fever, Rash, Runny Nose.
+Mumps has symptoms Swollen Cheeks, Fever, Headache.
+Polio has symptoms Muscle Weakness, Fever, Paralysis.
+Tetanus has symptoms Muscle Stiffness, Jaw Locking, Fever.
+Rabies has symptoms Fever, Fear of Water, Confusion.
+HIV has symptoms Fever, Weight Loss, Night Sweats.
+AIDS has symptoms Severe Infections, Weight Loss, Fatigue.
+Influenza has symptoms Fever, Cough, Sore Throat.
+Sinusitis has symptoms Facial Pain, Nasal Congestion, Headache.
+Tonsillitis has symptoms Sore Throat, Fever, Swollen Tonsils.
+Otitis Media has symptoms Ear Pain, Fever, Hearing Loss.
+Conjunctivitis has symptoms Red Eyes, Itching, Discharge.
+Glaucoma has symptoms Eye Pain, Blurred Vision, Headache.
+Cataract has symptoms Blurred Vision, Cloudy Lens.
+Thyroid Disorder has symptoms Weight Changes, Fatigue, Hair Loss.
+Hypothyroidism has symptoms Weight Gain, Cold Sensitivity, Fatigue.
+Hyperthyroidism has symptoms Weight Loss, Rapid Heartbeat, Sweating.
+Vitamin D Deficiency has symptoms Bone Pain, Muscle Weakness, Fatigue.
+Iron Deficiency has symptoms Fatigue, Pale Skin, Weakness.
+Obesity has symptoms Weight Gain, Shortness of Breath, Fatigue.
+Heat Stroke has symptoms High Body Temperature, Confusion, Dizziness.
+Dehydration has symptoms Thirst, Dry Mouth, Dizziness.
+Motion Sickness has symptoms Nausea, Dizziness, Sweating.
