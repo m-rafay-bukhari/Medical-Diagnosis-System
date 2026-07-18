@@ -1,0 +1,167 @@
+[
+  {
+    "patient_id": "P-2026-0001",
+    "name": "Ayesha Khan",
+    "age": 34,
+    "sex": "F",
+    "city": "Lahore, PK",
+    "visit_date": "2026-07-12",
+    "chief_complaint": "High fever and body aches for 3 days",
+    "observed_symptoms": {
+      "Fever": 1,
+      "Headache": 1,
+      "Body Aches": 1,
+      "Cough": 1
+    },
+    "duration_days": 3,
+    "severity": "moderate"
+  },
+  {
+    "patient_id": "P-2026-0002",
+    "name": "Hamza Iqbal",
+    "age": 58,
+    "sex": "M",
+    "city": "Karachi, PK",
+    "visit_date": "2026-07-13",
+    "chief_complaint": "Chest pain and shortness of breath",
+    "observed_symptoms": {
+      "Chest Pain": 1,
+      "Shortness of Breath": 1,
+      "Sweating": 1,
+      "Nausea": 1
+    },
+    "duration_days": 1,
+    "severity": "severe"
+  },
+  {
+    "patient_id": "P-2026-0003",
+    "name": "Fatima Zahra",
+    "age": 27,
+    "sex": "F",
+    "city": "Islamabad, PK",
+    "visit_date": "2026-07-14",
+    "chief_complaint": "Severe headache with light sensitivity",
+    "observed_symptoms": {
+      "Severe Headache": 1,
+      "Nausea": 1,
+      "Sensitivity to Light": 1
+    },
+    "duration_days": 2,
+    "severity": "moderate"
+  },
+  {
+    "patient_id": "P-2026-0004",
+    "name": "Bilal Ahmed",
+    "age": 45,
+    "sex": "M",
+    "city": "Faisalabad, PK",
+    "visit_date": "2026-07-15",
+    "chief_complaint": "Frequent urination and increased thirst",
+    "observed_symptoms": {
+      "Frequent Urination": 1,
+      "Increased Thirst": 1,
+      "Fatigue": 1,
+      "Blurred Vision": 1
+    },
+    "duration_days": 30,
+    "severity": "mild"
+  },
+  {
+    "patient_id": "P-2026-0005",
+    "name": "Sana Malik",
+    "age": 22,
+    "sex": "F",
+    "city": "Rawalpindi, PK",
+    "visit_date": "2026-07-15",
+    "chief_complaint": "Itchy rash and sneezing",
+    "observed_symptoms": {
+      "Sneezing": 1,
+      "Itchy Eyes": 1,
+      "Runny Nose": 1,
+      "Rash": 1
+    },
+    "duration_days": 5,
+    "severity": "mild"
+  },
+  {
+    "patient_id": "P-2026-0006",
+    "name": "Usman Tariq",
+    "age": 62,
+    "sex": "M",
+    "city": "Multan, PK",
+    "visit_date": "2026-07-16",
+    "chief_complaint": "Persistent sadness and loss of interest",
+    "observed_symptoms": {
+      "Persistent Sadness": 1,
+      "Fatigue": 1,
+      "Loss of Interest": 1
+    },
+    "duration_days": 60,
+    "severity": "moderate"
+  },
+  {
+    "patient_id": "P-2026-0007",
+    "name": "Mariam Raza",
+    "age": 8,
+    "sex": "F",
+    "city": "Peshawar, PK",
+    "visit_date": "2026-07-16",
+    "chief_complaint": "Fever and itchy rash",
+    "observed_symptoms": {
+      "Fever": 1,
+      "Itchy Rash": 1,
+      "Fatigue": 1
+    },
+    "duration_days": 4,
+    "severity": "moderate"
+  },
+  {
+    "patient_id": "P-2026-0008",
+    "name": "Imran Sheikh",
+    "age": 51,
+    "sex": "M",
+    "city": "Quetta, PK",
+    "visit_date": "2026-07-17",
+    "chief_complaint": "Severe abdominal pain and vomiting",
+    "observed_symptoms": {
+      "Abdominal Pain": 1,
+      "Nausea": 1,
+      "Vomiting": 1,
+      "Fever": 1
+    },
+    "duration_days": 2,
+    "severity": "severe"
+  },
+  {
+    "patient_id": "P-2026-0009",
+    "name": "Zainab Bibi",
+    "age": 41,
+    "sex": "F",
+    "city": "Sialkot, PK",
+    "visit_date": "2026-07-17",
+    "chief_complaint": "Joint pain and morning stiffness",
+    "observed_symptoms": {
+      "Joint Pain": 1,
+      "Morning Stiffness": 1,
+      "Fatigue": 1
+    },
+    "duration_days": 90,
+    "severity": "moderate"
+  },
+  {
+    "patient_id": "P-2026-0010",
+    "name": "Kashif Mehmood",
+    "age": 29,
+    "sex": "M",
+    "city": "Hyderabad, PK",
+    "visit_date": "2026-07-18",
+    "chief_complaint": "Sore throat and fever",
+    "observed_symptoms": {
+      "Sore Throat": 1,
+      "Fever": 1,
+      "Swollen Tonsils": 1
+    },
+    "duration_days": 3,
+    "severity": "mild"
+  }
+]
